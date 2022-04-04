@@ -1,72 +1,64 @@
-# Awesome Research Software Engineering Communities [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Research Software Engineering Science [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated awesome list of Research Software Engineering (RSE) Communities. Inspired by [these curated collections](https://github.com/sindresorhus/awesome).
+> A curated awesome list of Research Software Engineering (RSE) Science. Inspired by [these curated collections](https://github.com/sindresorhus/awesome).
 
 
 ## Contents
-- [RSE Associations](#rse-associations)
-- [RSE Groups](#rse-groups)
-- [Working Groups](#working-groups)
-- [International Initiatives](#international-initiatives)
-- [National Initiatives](#national-initiatives)
-  - [DE:](#de)
-- [Contribute](#contribute)
+- [RSE Scientific Working Groups](#rse-scientific-working-groups)
+- [RSE Research Projects](#rse-research-projects)
+- [RSE Conferences](#rse-conferences)
+  - [2022](#2022)
+  - [2021](#2021)
+  - [2020](#2020)
+  - [2019](#2019)
+  - [2018](#2018)
+  - [2017](#2017)
+- [RSE Literature](#rse-literature)
 
+## RSE Scientific Working Groups
+Scientific working groups that are built for dealing with RSE topics (not only research software) in alphabetical order.
+- [NAME](LINK): Short description of working group
 
-## RSE Associations
-RSE Associations around the globe
-- Asia: <https://rse-asia.github.io/RSE_Asia/>
-- AU/NZ: <https://rse-aunz.github.io/>
-- BE: <https://www.be-rse.org/>
-- DE: <https://www.de-rse.org/>
-- NL: <https://nl-rse.org/>
-- Scandinavia: <http://nordic-rse.org/>
-- UK: <https://rse.ac.uk/><https://society-rse.org>
-- USA: <https://us-rse.org/>
+## RSE Research Projects
+Research projects that deal with RSE topics (not only research software) in alphabetical order.
+- [Project Hermes](http://software-metadata.pub/): Developing automated workflows for metadata rich research software publications.
 
+## RSE Conferences
+RSE Conferences sorted by year descending.
 
-## RSE Groups
-RSE Groups around the globe
-- DE: <https://pad.gwdg.de/M0F4dmG9SoiEaORnZr-jmg?view>
-- UK: <https://docs.google.com/spreadsheets/d/e/2PACX-1vTd_AgELhvKd4FXDyAWI8L2WWNtAqxPElo334KZLEZWA4Ze5yOKDtwA2DE5crwNsCu8s7Cd8oAsgr5s/pubhtml>
+### 2022
+- [RSECon22](https://rsecon2022.society-rse.org/)
+- [RSE Workshops @ GI SE2022](https://se-2022.gi.de/rse22workshops)
 
+### 2021
+- [SORSE](https://sorse.github.io/)
+- [SeptembRSE 2021](https://septembrse.society-rse.org)
+- [NeSI - New Zealand Research Software Engineering Conference](https://www.rseconference.nz/programme-tabs1/#tabs|1)
 
-## Software Sustainability Institutes
-SSIs around the globe
-- NL: <https://www.esciencecenter.nl/>
-- UK: <https://www.software.ac.uk/>
+### 2020
+- [deRSE20](https://de-rse.org/deRSE20/)
+- [Nordic-RSE conference 2020](https://nordic-rse.org/conference)
+- [RSECon2020](https://rsecon2020.society-rse.org/)
+- [SORSE](https://sorse.github.io/)
 
+### 2019
+- [RSEConUK](https://rse.ac.uk/conf2019/)
+- [deRSE19](https://www.de-rse.org/en/conf2019/)
+- [NL-RSE19](https://nl-rse.org/events/NL-RSE19.html)
 
-## Working Groups
-Working groups around the globe that deal with research software engineers and engineering topics. This section is quite work in progress. Here is another [curated list of GitHub organizations that primarily serve open source or academic software projects](https://github.com/rseng/awesome-rseng).
+### 2018
+- [RSEConUK](https://rse.ac.uk/conf2018/)
 
-- International
-  - [Force 11: Software Citation Implementation Working Group](https://www.force11.org/group/software-citation-implementation-working-group)
-  - [RDA: Data Citation Work Group](https://rd-alliance.org/groups/data-citation-wg.html)
+### 2017
+- [RSEConUK](https://rse.ac.uk/conf2017/)
 
-- DE
-  - Helmholtz Gesellschaft
-    - [Arbeitskreis Open Science](https://os.helmholtz.de/open-science-in-der-helmholtz-gemeinschaft/akteure-und-ihre-rollen/arbeitskreis-open-science/)
+## RSE Literature
+Different collections of relevant RSE literature.
 
-  - Leibnitz Gemeinschaft
-
-  - MPI
-
-  - Fraunhofer
-
-
-## International Initiatives
-- [FAIR4RS](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg)
-- [Research Software Alliance](https://www.researchsoft.org/)
-
-
-## National Initiatives
-### DE:
-- [NFDI]()
-  - [RSE4NFDI](https://www.rse4nfdi.de)
-- [RFII](http://www.rfii.de)
-- [Schwerpunktinitiative "Digitale Information"](https://www.allianzinitiative.de/fields-of-action-projects/digital-tools-software-and-services/?lang=en)
-
+- [Zotero Group RSE](https://www.zotero.org/groups/2295543):
+- [Zotero Group FAIR4RS](https://www.zotero.org/groups/2501020/fair4rs/items/6H833P3W/library):
+- [Zenodo Community Research Software](https://zenodo.org/communities/researchsoftwarestudies):
+- [Zenodo Community deRSE](https://zenodo.org/communities/de-rse/):
 
 ## Contribute
 
