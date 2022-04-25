@@ -35,10 +35,11 @@ This is where we list information about meta data for research software
 ### Publication
 Resources about publishing research software
 
--[Overview of software journals](https://www.software.ac.uk/which-journals-should-i-publish-my-software)
+- [Overview of software journals](https://www.software.ac.uk/which-journals-should-i-publish-my-software)
 
 ### Repositories
 - [Awesome list of the Netherlands eScience Center about Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries)
+- [SciCodes](https://scicodes.net/outreach-materials/): Consortium of scientific software registries and repositories
 
 ### Search Engines
 ...with options to explicitely search for software
