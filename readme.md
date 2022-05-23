@@ -2,6 +2,7 @@
 
 > A curated awesome list of FAIR topics for Research Software Engineering (RSE). Inspired by [these curated collections](https://github.com/sindresorhus/awesome).
 
+[FAIR Principles for Research Software (FAIR4RS Principles)](https://rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0) of RDA.
 
 ## Contents
 - [Citation](#citation)
