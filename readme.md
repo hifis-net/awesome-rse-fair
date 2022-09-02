@@ -27,6 +27,7 @@ Resources about how to cite research software and how to make research software 
 - [Free Software Definition](https://www.gnu.org/philosophy/free-sw.html.en) - Free Software Definition including remarks to licensing.
 - [REUSE Specification](https://reuse.software/spec/) - Standardized method for declaring copyright and licensing for software projects.
 - [SPDX Specification](https://spdx.dev/specifications/) - The official SPDX specification.
+- [DLR Open Source Broschure](https://www.dlr.de/tm/PortalData/43/Resources/dokumente/tm_dokumente/OpenSource-Software_DLR_2022.pdf) - Licensing explained in detail with particular focus on German law (German only).
 
 ### Tools
 - [Reuse Tool](https://reuse.readthedocs.io/en/stable/) - Automate the declaring of copyright and licensing for software projects with SPDX Tags.
