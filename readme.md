@@ -5,20 +5,24 @@
 [FAIR Principles for Research Software (FAIR4RS Principles)](https://rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0) of RDA.
 
 ## Contents
-- [Software Citation](#software-citation)
-- [Software Licensing](#software-licensing)
+- [Citation](#citation)
+- [Licensing](#licensing)
 - [Meta Data](#meta-data)
-- [Software Publication](#software-publication)
-- [Software Repositories](#software-repositories)
+- [Publication](#publication)
+- [Repositories](#repositories)
 - [Search Engines](#search-engines)
 
-## Software Citation
+## Citation
 Resources about how to cite research software and how to make research software citable
 
 - [How to cite software: current best practice.](https://doi.org/10.5281/zenodo.2842910) - A starter presentation on software citation.
 - [Research Software Citation: Cite and Make Citable](https://cite.research-software.org/) - Background information on software citation in research.
 
-## Software Licensing
+### Tools
+...that assist you in citing research software
+- [CiteAs](http://citeas.org/): Tool that helps by how to cite research software (and other research outcomes)
+
+## Licensing
 
 - [A Quick Guide to Software Licensing for the Scientist-Programmer](https://doi.org/10.1371/journal.pcbi.1002598) - Detailed article about software licenses and obligations
 - [Software Licenses in Plain English](https://tldrlegal.com/) - Overview about software licenses including granted right and obligations.
@@ -49,15 +53,14 @@ This is where we list information about meta data for research software
 
 ### Tools
 ...that assist you in handling metadata for research software
-- [CiteAs](http://citeas.org/): Tool that helps by how to cite research software
 - [SOMEF](https://github.com/KnowledgeCaptureAndDiscovery/somef): Software Metadata Extraction Framework - A command line interface for automatically extracting relevant information from readme files.
 
-## Software Publication
+## Publication
 Resources about publishing research software
 
 - [In which journals should I publish my software?](https://www.software.ac.uk/which-journals-should-i-publish-my-software) - Overview of Software Journals
 
-## Software Repositories
+## Repositories
 - [Awesome Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries): List of the Netherlands eScience Center about Research Software Registries
 - [SciCodes](https://scicodes.net/outreach-materials/): Consortium of scientific software registries and repositories
 
