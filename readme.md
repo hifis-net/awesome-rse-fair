@@ -41,12 +41,16 @@ This is where we list information about meta data for research software
 - [CFFINIT generator](https://citation-file-format.github.io/cff-initializer-javascript/#/) - Generate your citation metadata files with ease
 - [The CodeMeta Project](https://codemeta.github.io/index.html) - Definitions of metadata for software projects.
 - [CodeMeta generator](https://codemeta.github.io/codemeta-generator/) - Generate useful metadata for your software
-- [CiteAs](http://citeas.org/)
 - [DOAP - Description Of A Project](https://github.com/ewilderj/doap)
 - [EDAM Ontology (Bioinformatics)](http://edamontology.org/page)
 - [Asset Description Metadata Schema for Software (ADMS.SW)](https://joinup.ec.europa.eu/svn/adms_foss/adms_sw_v1.00/adms_sw_v1.00.htm)
 - [Schema.org - SoftwareSourceCode](https://schema.org/SoftwareSourceCode)
 - [Schema.org - SoftwareApplication](https://schema.org/SoftwareApplication)
+
+### Tools
+...that assist you in handling metadata for research software
+- [CiteAs](http://citeas.org/): Tool that helps by how to cite research software
+- [SOMEF](https://github.com/KnowledgeCaptureAndDiscovery/somef): Software Metadata Extraction Framework - A command line interface for automatically extracting relevant information from readme files.
 
 ## Software Publication
 Resources about publishing research software
@@ -54,7 +58,7 @@ Resources about publishing research software
 - [In which journals should I publish my software?](https://www.software.ac.uk/which-journals-should-i-publish-my-software) - Overview of Software Journals
 
 ## Software Repositories
-- [Awesome list of the Netherlands eScience Center about Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries)
+- [Awesome Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries): List of the Netherlands eScience Center about Research Software Registries
 - [SciCodes](https://scicodes.net/outreach-materials/): Consortium of scientific software registries and repositories
 
 ## Search Engines
