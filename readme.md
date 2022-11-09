@@ -45,8 +45,7 @@ This is where we list information about meta data for research software
 
 - [Citation File Format (CFF)](https://citation-file-format.github.io/) - A machine-readable but simple software citation fomrmat with supported by Github, Zenodo and, Zotero.
 - [CFFINIT generator](https://citation-file-format.github.io/cff-initializer-javascript/#/) - Generate your citation metadata files with ease
-- [The CodeMeta Project](https://codemeta.github.io/index.html) - Definitions of metadata for software projects.
-- [CodeMeta generator](https://codemeta.github.io/codemeta-generator/) - Generate useful metadata for your software
+- [CodeMeta Project](https://codemeta.github.io/index.html) - Definitions of metadata for software projects.
 - [DOAP - Description Of A Project](https://github.com/ewilderj/doap)
 - [EDAM Ontology (Bioinformatics)](http://edamontology.org/page)
 - [Asset Description Metadata Schema for Software (ADMS.SW)](https://joinup.ec.europa.eu/svn/adms_foss/adms_sw_v1.00/adms_sw_v1.00.htm)
@@ -55,6 +54,7 @@ This is where we list information about meta data for research software
 
 ### Tools
 ...that assist you in handling metadata for research software
+- [CodeMeta generator](https://codemeta.github.io/codemeta-generator/) - Generate useful metadata for your software
 - [SOMEF](https://github.com/KnowledgeCaptureAndDiscovery/somef): Software Metadata Extraction Framework - A command line interface for automatically extracting relevant information from readme files.
 
 ## Publication
