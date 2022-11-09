@@ -20,7 +20,8 @@ Resources about how to cite research software and how to make research software 
 
 ### Tools
 ...that assist you in citing research software
-- [CiteAs](http://citeas.org/): Tool that helps by how to cite research software (and other research outcomes)
+- [CiteAs](http://citeas.org/) - Tool that helps by how to cite research software (and other research outcomes)
+- [shouldacite](https://mr-c.github.io/shouldacite/index.html) - Guidance on whether and how a software should be cited
 
 ## Licensing
 
@@ -61,8 +62,8 @@ Resources about publishing research software
 - [In which journals should I publish my software?](https://www.software.ac.uk/which-journals-should-i-publish-my-software) - Overview of Software Journals
 
 ## Repositories
-- [Awesome Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries): List of the Netherlands eScience Center about Research Software Registries
-- [SciCodes](https://scicodes.net/outreach-materials/): Consortium of scientific software registries and repositories
+- [Awesome Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries) - List of the Netherlands eScience Center about Research Software Registries
+- [SciCodes](https://scicodes.net/outreach-materials/) - Consortium of scientific software registries and repositories
 
 ## Search Engines
 ...with options to explicitly search for software
