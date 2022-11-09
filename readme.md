@@ -26,15 +26,16 @@ Resources about how to cite research software and how to make research software 
 ## Licensing
 
 - [A Quick Guide to Software Licensing for the Scientist-Programmer](https://doi.org/10.1371/journal.pcbi.1002598) - Detailed article about software licenses and obligations
-- [Software Licenses in Plain English](https://tldrlegal.com/) - Overview about software licenses including granted right and obligations.
-- [Open Source Licenses by Category](https://opensource.org/licenses/category) - OSI approved licenses sorted by category.
-- [The Open Source Definition](https://opensource.org/osd) - Open Source Definition including remarks to licensing.
-- [Free Software Definition](https://www.gnu.org/philosophy/free-sw.html.en) - Free Software Definition including remarks to licensing.
-- [REUSE Specification](https://reuse.software/spec/) - Standardized method for declaring copyright and licensing for software projects.
-- [SPDX Specification](https://spdx.dev/specifications/) - The official SPDX specification.
 - [DLR Open Source Broschure](https://www.dlr.de/tm/PortalData/43/Resources/dokumente/tm_dokumente/OpenSource-Software_DLR_2022.pdf) - Licensing explained in detail with particular focus on German law (German only).
+- [Free Software Definition](https://www.gnu.org/philosophy/free-sw.html.en) - Free Software Definition including remarks to licensing.
+- [Open Source Licenses by Category](https://opensource.org/licenses/category) - OSI approved licenses sorted by category.
+- [REUSE Specification](https://reuse.software/spec/) - Standardized method for declaring copyright and licensing for software projects.
+- [Software Licenses in Plain English](https://tldrlegal.com/) - Overview about software licenses including granted right and obligations.
+- [SPDX Specification](https://spdx.dev/specifications/) - The official SPDX specification.
+- [The Open Source Definition](https://opensource.org/osd) - Open Source Definition including remarks to licensing.
 
 ### Tools
+- [choosealicense](https://choosealicense.com/) - Helps you choose the software license that suits your needs.
 - [Reuse Tool](https://reuse.readthedocs.io/en/stable/) - Automate the declaring of copyright and licensing for software projects with SPDX Tags.
 - [SPDX License List](https://spdx.org/licenses/) - A list of all licenses supported by SPDX
 
