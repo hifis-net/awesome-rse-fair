@@ -24,6 +24,7 @@ A curated awesome list of FAIR topics for Research Software Engineering (RSE). I
 - [Repositories](#repositories)
 - [Search Engines](#search-engines)
 - [Related Lists](#related-lists)
+- [Contribute](#contribute)
 
 ## FAIR in general
 Tools and stuff that addresses FAIR as a whole.
@@ -37,13 +38,13 @@ Resources about how to cite research software and how to make research software 
 - [Research Software Citation: Cite and Make Citable](https://cite.research-software.org/) - Background information on software citation in research.
 
 ### Tools
-...that assist you in citing research software
-- [CiteAs](http://citeas.org/) - Tool that helps by how to cite research software (and other research outcomes)
-- [shouldacite](https://mr-c.github.io/shouldacite/index.html) - Guidance on whether and how a software should be cited
+Tools that assist you in citing research software.
+- [CiteAs](http://citeas.org/) - Tool that helps by how to cite research software (and other research outcomes).
+- [shouldacite](https://mr-c.github.io/shouldacite/index.html) - Guidance on whether and how a software should be cited.
 
 ## Licensing
 
-- [A Quick Guide to Software Licensing for the Scientist-Programmer](https://doi.org/10.1371/journal.pcbi.1002598) - Detailed article about software licenses and obligations
+- [A Quick Guide to Software Licensing for the Scientist-Programmer](https://doi.org/10.1371/journal.pcbi.1002598) - Detailed article about software licenses and obligations.
 - [DLR Open Source Broschure](https://www.dlr.de/tm/PortalData/43/Resources/dokumente/tm_dokumente/OpenSource-Software_DLR_2022.pdf) - Licensing explained in detail with particular focus on German law (German only).
 - [Free Software Definition](https://www.gnu.org/philosophy/free-sw.html.en) - Free Software Definition including remarks to licensing.
 - [Open Source Licenses by Category](https://opensource.org/licenses/category) - OSI approved licenses sorted by category.
@@ -55,14 +56,14 @@ Resources about how to cite research software and how to make research software 
 ### Tools
 - [choosealicense](https://choosealicense.com/) - Helps you choose the software license that suits your needs.
 - [Reuse Tool](https://reuse.readthedocs.io/en/stable/) - Automate the declaring of copyright and licensing for software projects with SPDX Tags.
-- [SPDX License List](https://spdx.org/licenses/) - A list of all licenses supported by SPDX
+- [SPDX License List](https://spdx.org/licenses/) - A list of all licenses supported by SPDX.
 
 
 ## Metadata
 This is where we list information about metadata for research software
 
-- [Citation File Format (CFF)](https://citation-file-format.github.io/) - A machine-readable but simple software citation fomrmat with supported by Github, Zenodo and, Zotero.
-- [CFFINIT generator](https://citation-file-format.github.io/cff-initializer-javascript/#/) - Generate your citation metadata files with ease
+- [Citation File Format (CFF)](https://citation-file-format.github.io/) - A machine-readable but simple software citation fomrmat with supported by GitHub, Zenodo and, Zotero.
+- [CFFINIT generator](https://citation-file-format.github.io/cff-initializer-javascript/#/) - Generate your citation metadata files with ease.
 - [CodeMeta Project](https://codemeta.github.io/index.html) - Definitions of metadata for software projects.
 - [DOAP - Description Of A Project](https://github.com/ewilderj/doap)
 - [EDAM Ontology (Bioinformatics)](http://edamontology.org/page)
@@ -71,21 +72,21 @@ This is where we list information about metadata for research software
 - [Schema.org - SoftwareApplication](https://schema.org/SoftwareApplication)
 
 ### Tools
-...that assist you in handling metadata for research software
-- [CodeMeta generator](https://codemeta.github.io/codemeta-generator/) - Generate useful metadata for your software
-- [SOMEF](https://github.com/KnowledgeCaptureAndDiscovery/somef): Software Metadata Extraction Framework - A command line interface for automatically extracting relevant information from readme files.
+Tools that assist you in handling metadata for research software.
+- [CodeMeta generator](https://codemeta.github.io/codemeta-generator/) - Generate useful metadata for your software.
+- [SOMEF](https://github.com/KnowledgeCaptureAndDiscovery/somef) - Software Metadata Extraction Framework. A command line interface for automatically extracting relevant information from readme files.
 
 ## Publication
-Resources about publishing research software
+Resources about publishing research software.
 
-- [In which journals should I publish my software?](https://www.software.ac.uk/which-journals-should-i-publish-my-software) - Overview of Software Journals
+- [In which journals should I publish my software?](https://www.software.ac.uk/which-journals-should-i-publish-my-software) - Overview of Software Journals.
 
 ## Repositories
-- [Awesome Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries) - List of the Netherlands eScience Center about Research Software Registries
-- [SciCodes](https://scicodes.net/outreach-materials/) - Consortium of scientific software registries and repositories
+- [Awesome Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries) - List of the Netherlands eScience Center about Research Software Registries.
+- [SciCodes](https://scicodes.net/outreach-materials/) - Consortium of scientific software registries and repositories.
 
 ## Search Engines
-...with options to explicitly search for software
+Search engines with options to explicitly search for software.
 
 - [BASE: Document type = Software](https://www.base-search.net/Search/Results?type=all&lookfor=doctype%3A6&ling=0&oaboost=1&name=&thes=&refid=dcresen&newsearch=1)
 - [DataCite: resource-type-id=software](https://search.datacite.org/works?query=&resource-type-id=software)
