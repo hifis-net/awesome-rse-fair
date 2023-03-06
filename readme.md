@@ -1,16 +1,34 @@
+<!--lint disable double-link-->
 # Awesome Research Software Engineering FAIR [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated awesome list of FAIR topics for Research Software Engineering (RSE). Inspired by [these curated collections](https://github.com/sindresorhus/awesome).
+A curated awesome list of FAIR topics for Research Software Engineering (RSE). Inspired by [these curated collections](https://github.com/sindresorhus/awesome). Topics cover citation and licensing of RS, metadata for RS, publication of RS, registries and repositories for RS, and search engines to find RS.
 
-[FAIR Principles for Research Software (FAIR4RS Principles)](https://rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0) of RDA.
+**About//** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Contributing](contributing.md)&nbsp;&nbsp;&nbsp;
+[HIFIS](https://hifis.net)&nbsp;&nbsp;&nbsp;
+[Awesome](https://github.com/sindresorhus/awesome)
+
+**Sub lists//**&nbsp;&nbsp;&nbsp;
+[Educational Resources](https://github.com/hifis-net/awesome-rse-education)&nbsp;&nbsp;&nbsp;
+[Communities](https://github.com/hifis-net/awesome-rse-communities)&nbsp;&nbsp;&nbsp;
+[FAIR](https://github.com/hifis-net/awesome-rse-fair)&nbsp;&nbsp;&nbsp;
+[Policies & Guidelines](https://github.com/hifis-net/awesome-rse-policies)&nbsp;&nbsp;&nbsp;
+[Science](https://github.com/hifis-net/awesome-rse-science)
 
 ## Contents
+- [FAIR in general](#fair-in-general)
 - [Citation](#citation)
 - [Licensing](#licensing)
-- [Meta Data](#meta-data)
+- [Metadata](#metadata)
 - [Publication](#publication)
 - [Repositories](#repositories)
 - [Search Engines](#search-engines)
+- [Related Lists](#related-lists)
+
+## FAIR in general
+Tools and stuff that addresses FAIR as a whole.
+- [FAIR Principles for Research Software (FAIR4RS Principles)](https://rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0) - recommendations of the [RDA](https://rd-alliance.org).
+- [howfairis](https://github.com/fair-software/howfairis) - Python package to analyze a GitHub or GitLab repository's compliance with the [fair-software.eu](https://fair-software.eu) recommendations.
 
 ## Citation
 Resources about how to cite research software and how to make research software citable
@@ -40,8 +58,8 @@ Resources about how to cite research software and how to make research software 
 - [SPDX License List](https://spdx.org/licenses/) - A list of all licenses supported by SPDX
 
 
-## Meta Data
-This is where we list information about meta data for research software
+## Metadata
+This is where we list information about metadata for research software
 
 - [Citation File Format (CFF)](https://citation-file-format.github.io/) - A machine-readable but simple software citation fomrmat with supported by Github, Zenodo and, Zotero.
 - [CFFINIT generator](https://citation-file-format.github.io/cff-initializer-javascript/#/) - Generate your citation metadata files with ease
@@ -72,6 +90,10 @@ Resources about publishing research software
 - [BASE: Document type = Software](https://www.base-search.net/Search/Results?type=all&lookfor=doctype%3A6&ling=0&oaboost=1&name=&thes=&refid=dcresen&newsearch=1)
 - [DataCite: resource-type-id=software](https://search.datacite.org/works?query=&resource-type-id=software)
 - [WorldWideScience: Results Tab: Data/Software](https://worldwidescience.org/)
+
+## Related Lists
+- [Awesome FAIR](https://github.com/Materials-Data-Science-and-Informatics/awesome-fair)
+- [Awesome Open Science](https://github.com/ZoranPandovski/awesome-open-science)
 
 ## Contribute
 
