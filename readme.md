@@ -83,6 +83,11 @@ Resources about publishing research software.
 
 - [In which journals should I publish my software?](https://www.software.ac.uk/which-journals-should-i-publish-my-software) - Overview of Software Journals.
 
+### Tools
+Tools that assist you in publishing your research software.
+- [HERMES](https://project.software-metadata.pub/) - To streamline software publication, this project develops automated workflows to publish research software with rich metadata.
+- [Zenodo github integration](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content) - Use Zenodo to quickly publish your softwrae repository on github and issue a DOI for your software
+
 ## Repositories
 - [Awesome Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries) - List of the Netherlands eScience Center about Research Software Registries.
 - [SciCodes](https://scicodes.net/outreach-materials/) - Consortium of scientific software registries and repositories.
