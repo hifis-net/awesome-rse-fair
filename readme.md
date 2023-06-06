@@ -75,6 +75,8 @@ This is where we list information about metadata for research software
 Tools that assist you in handling metadata for research software.
 - [CodeMeta generator](https://codemeta.github.io/codemeta-generator/) - Generate useful metadata for your software.
 - [SOMEF](https://github.com/KnowledgeCaptureAndDiscovery/somef) - Software Metadata Extraction Framework. A command line interface for automatically extracting relevant information from readme files.
+- [FAIR python cookiecutter](https://github.com/Materials-Data-Science-and-Informatics/fair-python-cookiecutter) - An opinionated cookiecutter template to kickstart a modern best-practice Python project with FAIR metadata.
+- [SOMESY](https://github.com/Materials-Data-Science-and-Informatics/somesy) - Somesy (software metadata sync) is a CLI tool to avoid messy software project metadata by keeping it in sync.
 
 ## Publication
 Resources about publishing research software.
