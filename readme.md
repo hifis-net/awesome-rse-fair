@@ -75,11 +75,18 @@ This is where we list information about metadata for research software
 Tools that assist you in handling metadata for research software.
 - [CodeMeta generator](https://codemeta.github.io/codemeta-generator/) - Generate useful metadata for your software.
 - [SOMEF](https://github.com/KnowledgeCaptureAndDiscovery/somef) - Software Metadata Extraction Framework. A command line interface for automatically extracting relevant information from readme files.
+- [FAIR python cookiecutter](https://github.com/Materials-Data-Science-and-Informatics/fair-python-cookiecutter) - An opinionated cookiecutter template to kickstart a modern best-practice Python project with FAIR metadata.
+- [SOMESY](https://github.com/Materials-Data-Science-and-Informatics/somesy) - Somesy (software metadata sync) is a CLI tool to avoid messy software project metadata by keeping it in sync.
 
 ## Publication
 Resources about publishing research software.
 
 - [In which journals should I publish my software?](https://www.software.ac.uk/which-journals-should-i-publish-my-software) - Overview of Software Journals.
+
+### Tools
+Tools that assist you in publishing your research software.
+- [HERMES Workflow](https://docs.software-metadata.pub/en/latest/) - The HERMES workflow enables automated publication of rich research software metadata and artifacts to publication repositories using open source tooling.
+- [Zenodo github integration](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content) - Use Zenodo to quickly publish your softwrae repository on github and issue a DOI for your software
 
 ## Repositories
 - [Awesome Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries) - List of the Netherlands eScience Center about Research Software Registries.
