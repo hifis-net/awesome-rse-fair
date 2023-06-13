@@ -86,7 +86,7 @@ Resources about publishing research software.
 ### Tools
 Tools that assist you in publishing your research software.
 - [HERMES Workflow](https://docs.software-metadata.pub/en/latest/) - The HERMES workflow enables automated publication of rich research software metadata and artifacts to publication repositories using open source tooling.
-- [Zenodo github integration](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content) - Use Zenodo to quickly publish your softwrae repository on github and issue a DOI for your software
+- [Zenodo GitHub integration](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content) - Use Zenodo to quickly publish your software repository on GitHub and issue a DOI for your software.
 
 ## Repositories
 - [Awesome Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries) - List of the Netherlands eScience Center about Research Software Registries.
