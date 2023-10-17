@@ -30,6 +30,7 @@ A curated awesome list of FAIR topics for Research Software Engineering (RSE). I
 Tools and stuff that addresses FAIR as a whole.
 - [FAIR Principles for Research Software (FAIR4RS Principles)](https://rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0) - recommendations of the [RDA](https://rd-alliance.org).
 - [howfairis](https://github.com/fair-software/howfairis) - Python package to analyze a GitHub or GitLab repository's compliance with the [fair-software.eu](https://fair-software.eu) recommendations.
+- [SQAaaS](https://sqaaas.eosc-synergy.eu/#/) - Software Quality Assessment as a Service. The Quality Assessment & Awarding building block analyses the level of completeness with the FAIR4RS reference criteria for any given release of your software.
 
 ## Citation
 Resources about how to cite research software and how to make research software citable
