@@ -97,8 +97,9 @@ Tools that assist you in publishing your research software.
 Search engines with options to explicitly search for software.
 
 - [BASE: Document type = Software](https://www.base-search.net/Search/Results?type=all&lookfor=doctype%3A6&ling=0&oaboost=1&name=&thes=&refid=dcresen&newsearch=1)
-- [DataCite: resource-type-id=software](https://search.datacite.org/works?query=&resource-type-id=software)
+- [DataCite Commons: resource-type=software](https://commons.datacite.org/doi.org?resource-type=software)
 - [WorldWideScience: Results Tab: Data/Software](https://worldwidescience.org/)
+- [OpenAlex: filter=type:software](https://openalex.org/works?filter=type:software)
 
 ## Related Lists
 - [Awesome FAIR](https://github.com/Materials-Data-Science-and-Informatics/awesome-fair)
