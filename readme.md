@@ -88,6 +88,8 @@ Tools that assist you in handling metadata for research software.
 Resources about publishing research software.
 
 - [In which journals should I publish my software?](https://www.software.ac.uk/which-journals-should-i-publish-my-software) - Overview of Software Journals.
+- [Publishing research software](https://libguides.mit.edu/software) - Concise guideline used in MIT when publishing research software.
+- [General discussion on publishing and sharing software by Code Refinery](https://coderefinery.github.io/social-coding/) - Complete lesson explaining basic concepts and related topics: where to store the software and how to make it citable.
 
 ### Tools
 Tools that assist you in publishing your research software.
