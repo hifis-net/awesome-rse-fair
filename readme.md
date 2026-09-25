@@ -46,18 +46,23 @@ Tools that assist you in citing research software.
 ## Licensing
 
 - [A Quick Guide to Software Licensing for the Scientist-Programmer](https://doi.org/10.1371/journal.pcbi.1002598) - Detailed article about software licenses and obligations.
-- [DLR Open Source Broschure](https://www.dlr.de/tm/PortalData/43/Resources/dokumente/tm_dokumente/OpenSource-Software_DLR_2022.pdf) - Licensing explained in detail with particular focus on German law (German only).
+- [DLR Open Source Broschure](https://www.dlr.de/de/medien/publikationen/broschueren/opensource-software_dlr_2022.pdf) - Licensing explained in detail with particular focus on German law (German only).
 - [Free Software Definition](https://www.gnu.org/philosophy/free-sw.html.en) - Free Software Definition including remarks to licensing.
 - [Open Source Licenses by Category](https://opensource.org/licenses/category) - OSI approved licenses sorted by category.
 - [REUSE Specification](https://reuse.software/spec/) - Standardized method for declaring copyright and licensing for software projects.
 - [Software Licenses in Plain English](https://tldrlegal.com/) - Overview about software licenses including granted right and obligations.
 - [SPDX Specification](https://spdx.dev/specifications/) - The official SPDX specification.
 - [The Open Source Definition](https://opensource.org/osd) - Open Source Definition including remarks to licensing.
-
+- [The Legal Side of Open Source](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project) - Guide answering common questions that arise when choosing an open-source license.
+- [Software Licensing by Code Refinery](https://coderefinery.github.io/social-coding/software-licensing/) - Complete lesson explaining all the basics and giving practical advice.
+- [Licensing by The Turing Way Community](https://book.the-turing-way.org/reproducible-research/licensing/) - Complete lesson explaining basic concepts and a variety of licenses, including recent advances in terms of machine learning model licenses. 
+  
 ### Tools
 - [choosealicense](https://choosealicense.com/) - Helps you choose the software license that suits your needs.
 - [Reuse Tool](https://reuse.readthedocs.io/en/stable/) - Automate the declaring of copyright and licensing for software projects with SPDX Tags.
 - [SPDX License List](https://spdx.org/licenses/) - A list of all licenses supported by SPDX.
+- [Licensing Assistant of Interoperable Europe](https://interoperable-europe.ec.europa.eu/collection/eupl/solution/licensing-assistant) - Allows you to compare, select and combine open-source software licenses.
+- [Licensing Selector](https://ufal.github.io/public-license-selector/) - Select a license by answering a few questions.
 
 
 ## Metadata
