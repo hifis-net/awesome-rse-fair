@@ -46,23 +46,18 @@ Tools that assist you in citing research software.
 ## Licensing
 
 - [A Quick Guide to Software Licensing for the Scientist-Programmer](https://doi.org/10.1371/journal.pcbi.1002598) - Detailed article about software licenses and obligations.
-- [DLR Open Source Broschure](https://www.dlr.de/de/medien/publikationen/broschueren/opensource-software_dlr_2022.pdf) - Licensing explained in detail with particular focus on German law (German only).
+- [DLR Open Source Broschure](https://www.dlr.de/tm/PortalData/43/Resources/dokumente/tm_dokumente/OpenSource-Software_DLR_2022.pdf) - Licensing explained in detail with particular focus on German law (German only).
 - [Free Software Definition](https://www.gnu.org/philosophy/free-sw.html.en) - Free Software Definition including remarks to licensing.
 - [Open Source Licenses by Category](https://opensource.org/licenses/category) - OSI approved licenses sorted by category.
 - [REUSE Specification](https://reuse.software/spec/) - Standardized method for declaring copyright and licensing for software projects.
 - [Software Licenses in Plain English](https://tldrlegal.com/) - Overview about software licenses including granted right and obligations.
 - [SPDX Specification](https://spdx.dev/specifications/) - The official SPDX specification.
 - [The Open Source Definition](https://opensource.org/osd) - Open Source Definition including remarks to licensing.
-- [The Legal Side of Open Source](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project) - Guide answering common questions that arise when choosing an open-source license.
-- [Software Licensing by Code Refinery](https://coderefinery.github.io/social-coding/software-licensing/) - Complete lesson explaining all the basics and giving practical advice.
-- [Licensing by The Turing Way Community](https://book.the-turing-way.org/reproducible-research/licensing/) - Complete lesson explaining basic concepts and a variety of licenses, including recent advances in terms of machine learning model licenses. 
-  
+
 ### Tools
 - [choosealicense](https://choosealicense.com/) - Helps you choose the software license that suits your needs.
 - [Reuse Tool](https://reuse.readthedocs.io/en/stable/) - Automate the declaring of copyright and licensing for software projects with SPDX Tags.
 - [SPDX License List](https://spdx.org/licenses/) - A list of all licenses supported by SPDX.
-- [Licensing Assistant of Interoperable Europe](https://interoperable-europe.ec.europa.eu/collection/eupl/solution/licensing-assistant) - Allows you to compare, select and combine open-source software licenses.
-- [Licensing Selector](https://ufal.github.io/public-license-selector/) - Select a license by answering a few questions.
 
 
 ## Metadata
@@ -76,6 +71,7 @@ This is where we list information about metadata for research software
 - [Asset Description Metadata Schema for Software (ADMS.SW)](https://joinup.ec.europa.eu/svn/adms_foss/adms_sw_v1.00/adms_sw_v1.00.htm)
 - [Schema.org - SoftwareSourceCode](https://schema.org/SoftwareSourceCode)
 - [Schema.org - SoftwareApplication](https://schema.org/SoftwareApplication)
+- [ConnOSS metadata schema](https://purls.helmholtz-metadaten.de/connoss/)
 
 ### Tools
 Tools that assist you in handling metadata for research software.
@@ -83,6 +79,7 @@ Tools that assist you in handling metadata for research software.
 - [SOMEF](https://github.com/KnowledgeCaptureAndDiscovery/somef) - Software Metadata Extraction Framework. A command line interface for automatically extracting relevant information from readme files.
 - [FAIR python cookiecutter](https://github.com/Materials-Data-Science-and-Informatics/fair-python-cookiecutter) - An opinionated cookiecutter template to kickstart a modern best-practice Python project with FAIR metadata.
 - [SOMESY](https://github.com/Materials-Data-Science-and-Informatics/somesy) - Somesy (software metadata sync) is a CLI tool to avoid messy software project metadata by keeping it in sync.
+- [CoMET-RS](https://github.com/zbmed-semtec/comet-metadata-extraction) -CoMET-RS, as of 2026-09-25 under development, is the ConnOSS metadata extraction tool helping to get metadata directly from your code repository (GitHub, GitLab, CodeBerg, Bitbucket)
 
 ## Publication
 Resources about publishing research software.
@@ -102,9 +99,8 @@ Tools that assist you in publishing your research software.
 Search engines with options to explicitly search for software.
 
 - [BASE: Document type = Software](https://www.base-search.net/Search/Results?type=all&lookfor=doctype%3A6&ling=0&oaboost=1&name=&thes=&refid=dcresen&newsearch=1)
-- [DataCite Commons: resource-type=software](https://commons.datacite.org/doi.org?resource-type=software)
+- [DataCite: resource-type-id=software](https://search.datacite.org/works?query=&resource-type-id=software)
 - [WorldWideScience: Results Tab: Data/Software](https://worldwidescience.org/)
-- [OpenAlex: filter=type:software](https://openalex.org/works?filter=type:software)
 
 ## Related Lists
 - [Awesome FAIR](https://github.com/Materials-Data-Science-and-Informatics/awesome-fair)
