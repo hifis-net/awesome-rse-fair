@@ -85,6 +85,7 @@ Tools that assist you in handling metadata for research software.
 - [FAIR python cookiecutter](https://github.com/Materials-Data-Science-and-Informatics/fair-python-cookiecutter) - An opinionated cookiecutter template to kickstart a modern best-practice Python project with FAIR metadata.
 - [SOMESY](https://github.com/Materials-Data-Science-and-Informatics/somesy) - Somesy (software metadata sync) is a CLI tool to avoid messy software project metadata by keeping it in sync.
 - [CoMET-RS](https://github.com/zbmed-semtec/comet-metadata-extraction) - ConnOSS metadata extraction tool for code repositories (e.g., GitHub, GitLab, Codeberg, Bitbucket), as of 2026-09-05 under development
+- [SMECS](https://github.com/NFDI4Energy/SMECS) - Software Metadata Extraction and Curation Software (SMECS). A web application for extracting, importing, curating, and exporting research software metadata.
 
 ## Publication
 Resources about publishing research software.
