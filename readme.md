@@ -76,6 +76,7 @@ This is where we list information about metadata for research software
 - [Asset Description Metadata Schema for Software (ADMS.SW)](https://joinup.ec.europa.eu/svn/adms_foss/adms_sw_v1.00/adms_sw_v1.00.htm)
 - [Schema.org - SoftwareSourceCode](https://schema.org/SoftwareSourceCode)
 - [Schema.org - SoftwareApplication](https://schema.org/SoftwareApplication)
+- [ConnOSS metadata schema](https://purls.helmholtz-metadaten.de/connoss/) - An extension of CodeMeta and schema.org based on feedback from RSE communities in Germany, e.g., deRSE and NFDI Research Software Metadata Working Group
 
 ### Tools
 Tools that assist you in handling metadata for research software.
@@ -83,6 +84,7 @@ Tools that assist you in handling metadata for research software.
 - [SOMEF](https://github.com/KnowledgeCaptureAndDiscovery/somef) - Software Metadata Extraction Framework. A command line interface for automatically extracting relevant information from readme files.
 - [FAIR python cookiecutter](https://github.com/Materials-Data-Science-and-Informatics/fair-python-cookiecutter) - An opinionated cookiecutter template to kickstart a modern best-practice Python project with FAIR metadata.
 - [SOMESY](https://github.com/Materials-Data-Science-and-Informatics/somesy) - Somesy (software metadata sync) is a CLI tool to avoid messy software project metadata by keeping it in sync.
+- [CoMET-RS](https://github.com/zbmed-semtec/comet-metadata-extraction) - ConnOSS metadata extraction tool for code repositories (e.g., GitHub, GitLab, Codeberg, Bitbucket), as of 2026-09-05 under development
 
 ## Publication
 Resources about publishing research software.
